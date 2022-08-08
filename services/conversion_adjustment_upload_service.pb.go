@@ -21,8 +21,8 @@
 package services
 
 import (
-	common "github.com/kritzware/google-ads-go/common"
-	enums "github.com/kritzware/google-ads-go/enums"
+	common "github.com/AleksanderMako/google-ads-go/common"
+	enums "github.com/AleksanderMako/google-ads-go/enums"
 	_ "google.golang.org/genproto/googleapis/api/annotations"
 	status "google.golang.org/genproto/googleapis/rpc/status"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"

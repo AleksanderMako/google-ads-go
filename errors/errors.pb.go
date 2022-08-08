@@ -21,8 +21,8 @@
 package errors
 
 import (
-	common "github.com/kritzware/google-ads-go/common"
-	enums "github.com/kritzware/google-ads-go/enums"
+	common "github.com/AleksanderMako/google-ads-go/common"
+	enums "github.com/AleksanderMako/google-ads-go/enums"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	durationpb "google.golang.org/protobuf/types/known/durationpb"

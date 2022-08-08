@@ -21,7 +21,7 @@
 package services
 
 import (
-	resources "github.com/kritzware/google-ads-go/resources"
+	resources "github.com/AleksanderMako/google-ads-go/resources"
 	_ "google.golang.org/genproto/googleapis/api/annotations"
 	longrunning "google.golang.org/genproto/googleapis/longrunning"
 	status "google.golang.org/genproto/googleapis/rpc/status"
